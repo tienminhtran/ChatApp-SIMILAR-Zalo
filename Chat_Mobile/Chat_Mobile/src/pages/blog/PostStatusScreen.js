@@ -246,7 +246,6 @@ const analyzeImage = async (base64Image) => {
 
   // Hàm gọi Gemini API (thay bằng API thật của bạn)
 // const fetchSuggestion = async (keyword) => {
-//   const apiKey = 'AIzaSyDXYjSgtX6Eek4Loi82kRGjB6s7L7Rog3E'; // Thay bằng API key thật của bạn
 //   const endpoint = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${apiKey}`;
 
 //   const response = await fetch(endpoint, {
